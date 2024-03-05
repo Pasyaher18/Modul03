@@ -1,0 +1,36 @@
+    h1 {
+    text-align: center;
+  }
+  .head {
+    text-align: center;
+  }
+  img {
+    border: 0cap;
+    text-align: center;
+  }
+  .w3-third img{
+    margin: 0 25%;
+    text-align: center;
+  }
+  article {
+    display: none;
+    justify-content: center;
+  }
+  .href {
+    text-align: center;
+    color: blueviolet;
+  }
+  .sty {
+    text-align: center;
+    color: white;
+  }
+  .since {
+    text-align: center;
+    color: darkslategray;
+  }
+  footer {
+  padding: 10px;
+  text-align: center;
+  color: darkgray;
+  background-color: cornflowerblue;
+  }
